@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.borderFull {
+  border-radius: 50%;
+}
+
+.tangerine {
+  font-family: 'Tangerine', cursive;
+}
