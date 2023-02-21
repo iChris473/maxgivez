@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b25bfd9e.css",
+    "main.js": "/static/js/main.da9411e6.js",
+    "static/media/p1.png": "/static/media/p1.7a185a8e619b83fe7b90.png",
+    "static/media/loading.gif": "/static/media/loading.80cdda42e5fb7bb002b1.gif",
+    "static/media/sign.jpg": "/static/media/sign.d1eb6b0f4eec2d285cea.jpg",
+    "static/media/e400.png": "/static/media/e400.6b7f2c25b799dbf46216.png",
+    "static/media/insta.png": "/static/media/insta.f39844305426583432fb.png",
+    "static/media/allP.jpg": "/static/media/allP.64ec929c9204d9c4ff54.jpg",
+    "static/media/cartbg.jpg": "/static/media/cartbg.79b9ab5172ba8cf5aa9b.jpg",
+    "static/media/freedelivery.webp": "/static/media/freedelivery.cf18ab5e5f0bad554c7c.webp",
+    "static/media/hero.jpeg": "/static/media/hero.2505b4f974b6486fd143.jpeg",
+    "static/media/checkout.jpg": "/static/media/checkout.0d035f153bae779dcb1a.jpg",
+    "static/media/menF.png": "/static/media/menF.e396a18a62aabca72792.png",
+    "static/media/btc.png": "/static/media/btc.875e0703a7e551bc949a.png",
+    "static/media/w2.jpeg": "/static/media/w2.3d702c01318d29dc7d54.jpeg",
+    "static/media/cashapp.png": "/static/media/cashapp.56ec1bbcfd7ed0de633f.png",
+    "static/media/womenF.png": "/static/media/womenF.1a12deeff61f68820328.png",
+    "static/media/w4.jpeg": "/static/media/w4.d154e32e5e94b3c04e62.jpeg",
+    "static/media/w3.jpeg": "/static/media/w3.066c1d97b5111818d9ce.jpeg",
+    "static/media/w5.jpeg": "/static/media/w5.23ae1d5c6ab96d95bfa2.jpeg",
+    "static/media/w1.jpeg": "/static/media/w1.6459906714e7c4eceb87.jpeg",
+    "static/media/mlogo.png": "/static/media/mlogo.a461b7e90d654b29c847.png",
+    "static/media/ringL.jpg": "/static/media/ringL.72cd28cc7ceb79fe61b2.jpg",
+    "static/media/paypal.png": "/static/media/paypal.7358bce5792df27edfc3.png",
+    "index.html": "/index.html",
+    "main.b25bfd9e.css.map": "/static/css/main.b25bfd9e.css.map",
+    "main.da9411e6.js.map": "/static/js/main.da9411e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b25bfd9e.css",
+    "static/js/main.da9411e6.js"
+  ]
+}
